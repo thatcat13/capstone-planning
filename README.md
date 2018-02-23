@@ -4,9 +4,9 @@
 
 # Cat Janowitz
 
-#  Description
+##  Description
 
-## Name of Project: sheCodes( )
+# Name of Project: sheCodes( )
 
 ## Project's Purpose:
 

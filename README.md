@@ -38,6 +38,9 @@ This app will serve as a resource for young women middle school-aged and up who 
 ### Home Page Mock Up
 ![](sheCodesMockUp1.jpg)
 
+### Sign Up Page Mock Up
+![](sheCodesMockUp3.jpg)
+
 ### User Logged In Mock Up
 ![](sheCodesMockUp2.jpg)
 

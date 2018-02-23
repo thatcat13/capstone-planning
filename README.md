@@ -32,6 +32,12 @@ This app will serve as a resource for young women middle school-aged and up who 
 *	Use Firebase to create a profile for local sponsors and create a sponsors page for users to view
 *	Create a forum where users and sponsors can see each other’s information and connect (this is not fully conceptualized yet)
 
+## 'THINKING IN REACT'-guided Planning
+1. Mock ups
+
+![](sheCodesMockUp1.jpg)
+
+
 ## Contact
 thatcat13@gmail.com
 

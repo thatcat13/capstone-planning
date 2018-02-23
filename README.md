@@ -10,7 +10,7 @@
 
 ## Project's Purpose:
 
-This app will serve as a resource for young women middle school-aged and up who are interested in learning about coding/tech. The home page will provide a tiled gallery of clickable online resources, some activities and a link to create a personal profile.  Collectively, the features of sheCodes( ) will help the user learn about coding via what's available in their area and online, which facet of coding/tech they are drawn to, and a way to create and track a profile that summarizes and personalizes their findings.
+This app will serve as a resource for young women middle school-aged and up who are interested in learning about coding/tech. The home page will provide a tiled gallery of clickable online resources, some activities and a link to create a personal profile.  Collectively, the features of sheCodes( ) will help the user learn about coding via what's available in their area and online, and which facet of coding/tech they are drawn to.
 
 ## sheCodes( ) MVP:
 *	Provide a clickable gallery of all online resources for young women interested in tech

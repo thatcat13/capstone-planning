@@ -50,6 +50,9 @@ This app will serve as a resource for young women middle school-aged and up who 
 ### Quiz Results Mock Up
 ![](sheCodesMockUp5.jpg)
 
+### User Logged In with Quiz Results Icon
+![](sheCodesMockUp6.jpg)
+
 ## Contact
 thatcat13@gmail.com
 

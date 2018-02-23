@@ -44,6 +44,8 @@ This app will serve as a resource for young women middle school-aged and up who 
 ### User Logged In Mock Up
 ![](sheCodesMockUp2.jpg)
 
+### Quiz Mock Up
+![](sheCodesMockUp4.jpg)
 
 ## Contact
 thatcat13@gmail.com

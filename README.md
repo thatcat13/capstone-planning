@@ -10,7 +10,7 @@
 
 ## Project's Purpose:
 
-This app will serve as a resource for young women middle school-aged and up who are interested in learning about coding/tech. The home page will provide a tiled gallery of clickable online resources, some activities and a link to create a personal profile.  Collectively, the features of sheCodes( ) will help the user learn about coding via what's available in their area and online, and which facet of coding/tech they are drawn to.
+This app will serve as a resource for young women middle school-aged and up who are interested in learning about coding/tech. The home page will provide a tiled gallery of clickable online resources, some activities and a link to create a personal profile.  Collectively, the features of sheCodes( ) will help the user learn about coding via what's available in their area and online, and which facet of coding/tech they are drawn to, and a way to create and track a profile that summarizes and personalizes their findings.
 
 ## sheCodes( ) MVP:
 *	Provide a clickable gallery of all online resources for young women interested in tech
@@ -33,7 +33,7 @@ This app will serve as a resource for young women middle school-aged and up who 
 *	Create a forum where users and sponsors can see each other’s information and connect (this is not fully conceptualized yet)
 
 ## 'THINKING IN REACT' -guided Planning
-### Step1: Mock ups
+## Step1a: Mock ups
 
 ### Home Page Mock Up
 ![](sheCodesMockUp1.jpg)
@@ -52,6 +52,16 @@ This app will serve as a resource for young women middle school-aged and up who 
 
 ### User Logged In with Quiz Results Icon
 ![](sheCodesMockUp6.jpg)
+
+### Tutorial/Tips Mock Up
+![](sheCodesMockUp7.jpg)
+
+## Step1: Break The UI Into A Component Hierarchy
+
+### This is my first attempt (not complete, will be revised)
+![](sheCodesComponentTreeV1.jpg)
+## Technologies Used
+* draw.io
 
 ## Contact
 thatcat13@gmail.com

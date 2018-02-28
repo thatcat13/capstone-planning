@@ -58,8 +58,10 @@ This app will serve as a resource for young women middle school-aged and up who 
 
 ## Step1: Break The UI Into A Component Hierarchy
 
-### This is my first attempt (not complete, will be revised)
-![](sheCodesComponentTreeV1.jpg)
+![](ComponentTree_MVP.jpg)
+
+![](ComponentTree_PhaseII.jpg)
+
 ## Technologies Used
 * draw.io
 
